@@ -1,2 +1,4 @@
 # hello-world
-Just a repository
+
+Hello there, I am Maria.
+Still got a lot to learn here.
